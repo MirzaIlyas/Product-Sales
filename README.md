@@ -12,7 +12,7 @@ The project revolves around analyzing sales data collected  to gain valuable ins
 
 Features:-
 
-.Interactive Dashboards:  Engaging and intuitive dashboards providing a holistic view of sales data through visualizations like bar charts, line graphs, and pie charts.
+>Interactive Dashboards:  Engaging and intuitive dashboards providing a holistic view of sales data through visualizations like bar charts, line graphs, and pie charts.
 
 >Product Performance Analysis: Detailed breakdown of sales performance for each product, including sales volume, revenue, and profitability metrics.
 
